@@ -1,4 +1,24 @@
-# AI agent spec template
+<p align="center">
+  <a href="https://vantion.co">
+    <img src="https://raw.githubusercontent.com/vantionlabs/.github/main/profile/banner.png" alt="Vantion Labs" width="100%" />
+  </a>
+</p>
+
+<h1 align="center">AI agent spec template</h1>
+
+<p align="center">
+  <b>A fill-in spec for AI agents: process, tools, approvals, evals and rollback.</b><br />
+  The sections we use before anyone writes a prompt, with guidance and a worked example.
+</p>
+
+<p align="center">
+  <a href="https://github.com/vantionlabs/ai-agent-spec-template/generate"><img alt="Use this template" src="https://img.shields.io/badge/Use_this_template-2233f0?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="ai-agent-spec.md"><img alt="format: Markdown" src="https://img.shields.io/badge/format:_Markdown-f4f4f6?style=flat-square&logo=markdown&logoColor=white" /></a>
+  <a href="LICENSE"><img alt="MIT" src="https://img.shields.io/badge/licence-MIT-f4f4f6?style=flat-square" /></a>
+  <a href="https://vantion.co"><img alt="Vantion Labs" src="https://img.shields.io/badge/by-Vantion_Labs-2233f0?style=flat-square" /></a>
+</p>
+
+---
 
 A fill-in spec for AI agents: process, tools, approvals, evals and rollback.
 
