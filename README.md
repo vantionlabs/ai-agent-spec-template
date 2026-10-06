@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://vantion.co">
     <img src="https://raw.githubusercontent.com/vantionlabs/.github/main/profile/banner.png" alt="Vantion Labs" width="100%" />
-  </a>
 </p>
 
 <h1 align="center">AI agent spec template</h1>
@@ -15,7 +13,7 @@
   <a href="https://github.com/vantionlabs/ai-agent-spec-template/generate"><img alt="Use this template" src="https://img.shields.io/badge/Use_this_template-2233f0?style=flat-square&logo=github&logoColor=white" /></a>
   <a href="ai-agent-spec.md"><img alt="format: Markdown" src="https://img.shields.io/badge/format:_Markdown-f4f4f6?style=flat-square&logo=markdown&logoColor=white" /></a>
   <a href="LICENSE"><img alt="MIT" src="https://img.shields.io/badge/licence-MIT-f4f4f6?style=flat-square" /></a>
-  <a href="https://vantion.co"><img alt="Vantion Labs" src="https://img.shields.io/badge/by-Vantion_Labs-2233f0?style=flat-square" /></a>
+  <img alt="Vantion Labs" src="https://img.shields.io/badge/by-Vantion_Labs-2233f0?style=flat-square" />
 </p>
 
 ---
@@ -59,8 +57,6 @@ The order matters. Sections 2 to 5 describe the job and its limits, and the busi
 
 ## The full guide
 
-The rest of the guide, with worked examples, lives on our site: [AI agent specification template: define the process, tools and approvals](https://vantion.co/developers/ai-agent-spec-template).
-
 ---
 
-Made by [Vantion Labs](https://vantion.co). MIT licensed: use it, change it, ship it.
+Made by Vantion Labs. MIT licensed: use it, change it, ship it.
